@@ -249,7 +249,6 @@ As principais telas conceituais incluem:
 </p>
 
 <p align="center">
-  <img src="./assets/images/criar-party.png" width="180">
   <img src="./assets/images/party.png" width="180">
   <img src="./assets/images/chat.png" width="180">
   <img src="./assets/images/perfil.png" width="180">
