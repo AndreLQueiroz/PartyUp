@@ -1,12 +1,11 @@
 import { StyleSheet, Text, View } from 'react-native';
+import { COLORS } from '../../constants/theme';
 
-export default function ExplorarScreen() {
+export default function Home() {
   return (
     <View style={styles.container}>
-      <View style={styles.content}>
-        <Text style={styles.title}>Explorar</Text>
-        <Text style={styles.subtitle}>Descubra eventos e grupos.</Text>
-      </View>
+      <Text style={styles.title}>PartyUp</Text>
+      <Text style={styles.text}>Tela inicial do aplicativo.</Text>
     </View>
   );
 }
@@ -14,21 +13,20 @@ export default function ExplorarScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    backgroundColor: COLORS.background,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#fff',
+    padding: 24,
   },
-  content: {
-    alignItems: 'center',
-    gap: 12,
-  },
+
   title: {
+    color: COLORS.text,
     fontSize: 28,
-    fontWeight: '700',
-    color: '#000',
+    fontWeight: 'bold',
   },
-  subtitle: {
-    fontSize: 16,
-    color: '#444',
+
+  text: {
+    color: COLORS.textSecondary,
+    marginTop: 8,
   },
 });

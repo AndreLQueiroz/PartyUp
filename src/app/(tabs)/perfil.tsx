@@ -1,12 +1,11 @@
 import { StyleSheet, Text, View } from 'react-native';
+import { COLORS } from '../../constants/theme';
 
-export default function PerfilScreen() {
+export default function Home() {
   return (
     <View style={styles.container}>
-      <View style={styles.content}>
-        <Text style={styles.title}>Perfil</Text>
-        <Text style={styles.subtitle}>Gerencie seu perfil e configurações.</Text>
-      </View>
+      <Text style={styles.title}>PartyUp</Text>
+      <Text style={styles.text}>Tela inicial do aplicativo.</Text>
     </View>
   );
 }
@@ -14,21 +13,20 @@ export default function PerfilScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    backgroundColor: COLORS.background,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#fff',
+    padding: 24,
   },
-  content: {
-    alignItems: 'center',
-    gap: 12,
-  },
+
   title: {
+    color: COLORS.text,
     fontSize: 28,
-    fontWeight: '700',
-    color: '#000',
+    fontWeight: 'bold',
   },
-  subtitle: {
-    fontSize: 16,
-    color: '#444',
+
+  text: {
+    color: COLORS.textSecondary,
+    marginTop: 8,
   },
 });
