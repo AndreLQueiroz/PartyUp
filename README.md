@@ -238,6 +238,24 @@ As principais telas conceituais incluem:
 * Chat;
 * Perfil.
 
+
+## 🎨 Telas do Protótipo
+
+<p align="center">
+  <img src="./assets/images/splash.png" width="180">
+  <img src="./assets/images/login.png" width="180">
+  <img src="./assets/images/home.png" width="180">
+  <img src="./assets/images/explorar.png" width="180">
+</p>
+
+<p align="center">
+  <img src="./assets/images/criar-party.png" width="180">
+  <img src="./assets/images/party.png" width="180">
+  <img src="./assets/images/chat.png" width="180">
+  <img src="./assets/images/perfil.png" width="180">
+</p>
+
+
 > **Link do Figma:** https://www.figma.com/design/KCv2P0sTfgrNFS0LaAiX7V/CP1-Mobile?node-id=0-1&p=f&t=KD9aipQgc41XHI2k-0
 
 ---
@@ -436,7 +454,7 @@ Antes de iniciar, é necessário possuir:
 ## 1. Clone o repositório
 
 ```bash
-git clone URL-DO-REPOSITORIO
+git clone https://github.com/AndreLQueiroz/PartyUp.git
 ```
 
 ## 2. Entre na pasta
