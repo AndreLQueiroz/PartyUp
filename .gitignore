@@ -37,6 +37,8 @@ yarn-error.*
 *.tsbuildinfo
 
 example
+*.vscode
+*.Claude.md
 
 # generated native folders
 /ios

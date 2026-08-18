@@ -420,43 +420,6 @@ Splash / Login
 ```
 
 O usuário também poderá acessar seu perfil através da navegação principal.
-
----
-
-# 📸 Aplicação em execução
-
-Durante o CP4 foi desenvolvido o setup técnico inicial da aplicação em React Native/Expo.
-
-Nesta etapa, o objetivo é validar:
-
-* Inicialização do projeto;
-* Estrutura de navegação;
-* Organização das telas;
-* Aplicação inicial da identidade visual;
-* Funcionamento do ambiente de desenvolvimento.
-
-> Adicionar aqui os screenshots do aplicativo em execução.
-
-Sugestão de organização:
-
-```text
-docs/
-└── screenshots/
-    ├── splash.png
-    ├── home.png
-    └── navegacao.png
-```
-
-Depois, as imagens podem ser adicionadas ao README:
-
-```html
-<p align="center">
-  <img src="./docs/screenshots/splash.png" width="250" alt="Splash PartyUp">
-  <img src="./docs/screenshots/home.png" width="250" alt="Home PartyUp">
-  <img src="./docs/screenshots/navegacao.png" width="250" alt="Navegação PartyUp">
-</p>
-```
-
 ---
 
 # 🚀 Como executar o projeto
