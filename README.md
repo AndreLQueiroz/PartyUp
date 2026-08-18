@@ -239,13 +239,7 @@ As principais telas conceituais incluem:
 * Chat;
 * Perfil.
 
-> **Link do Figma:** adicionar aqui o link público do projeto.
-
-Exemplo:
-
-```text
-https://www.figma.com/SEU-LINK
-```
+> **Link do Figma:** https://www.figma.com/design/KCv2P0sTfgrNFS0LaAiX7V/CP1-Mobile?node-id=0-1&p=f&t=KD9aipQgc41XHI2k-0
 
 ---
 
