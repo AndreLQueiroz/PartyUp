@@ -165,15 +165,14 @@ O nome representa diretamente a principal ação da plataforma: **formar uma par
 
 A identidade visual utiliza um símbolo inspirado na união das letras **P** e **U**, representando **PartyUp**, combinado com elementos visuais relacionados a comunicação e conexão.
 
-> Adicionar aqui a imagem oficial da logo.
-
-Exemplo após adicionar a imagem em `assets/images/logo.png`:
-
-```html
 <p align="center">
-  <img src="./assets/images/logo.png" width="180" alt="Logo PartyUp">
+  <img src="./assets/images/logo.png" width="300" alt="Logo PartyUp">
 </p>
-```
+
+<p align="center">
+  <strong>PARTYUP</strong><br>
+  <em>Never Play Alone.</em>
+</p>
 
 ---
 
