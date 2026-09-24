@@ -259,6 +259,22 @@ As principais telas conceituais incluem:
 
 ---
 
+## 🎨 Telas Do Aplicativo
+
+<p align="center">
+  <img src="./assets/images/splash.png" width="180">
+  <img src="./assets/images/Inicio.png" width="180">
+  <img src="./assets/images/explorar2.png" width="180">
+  <img src="./assets/images/Criar.png" width="180">
+</p>
+
+<p align="center">
+  <img src="./assets/images/Chats.png" width="180">
+  <img src="./assets/images/Perfil2.png" width="180">
+</p>
+
+---
+
 # 💰 Modelo de negócio
 
 O PartyUp utilizará inicialmente um modelo **Freemium**.
