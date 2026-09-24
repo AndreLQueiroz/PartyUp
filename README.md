@@ -239,7 +239,7 @@ As principais telas conceituais incluem:
 * Perfil.
 
 
-## 🎨 Telas do Protótipo
+## 🚀 Prototipo Figma
 
 <p align="center">
   <img src="./assets/images/splash.png" width="180">
